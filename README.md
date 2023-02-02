@@ -6,7 +6,7 @@
 
 # Confluence Page
 
-link:
+link: https://issues.atlassian.net/wiki/spaces/GISA/pages/4213309474/JP-Cross-NACCS+Topic+Information
 
 # pre-commit hook
 
