@@ -1,5 +1,5 @@
 location = "japaneast"
-application = "appsrv1"
+application = "common-resources"
 topic       = "jp-cross-naccs"
 heritage      = "git@git.signintra.com:dct/azure/az-cloud-topics/azure-jpe-region/jp-cross-naccs.git"
 contact       = "shingo.sannomiya@schenker-seino.co.jp,katsuhiko.yamaguchi@schenker-seino.co.jp"
